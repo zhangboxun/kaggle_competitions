@@ -1,0 +1,9 @@
+model	value	metric
+lm	136	RMSE
+lm	0.439	R^2
+pls	136	RMSE
+pls	0.435	R^2
+knn	94.5	RMSE
+knn	0.73	R^2
+boost	42.7	RMSE
+boost	0.944	R^2
